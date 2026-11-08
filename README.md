@@ -1,3 +1,7 @@
+# Project-description 
+
+A digital exhibit of the Joan Little case. It features various ephemeral objects from photographs, news clippings, etc. related to the court case./ 
+
 # CollectionBuilder-Sheets
 
 CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV (such as a published Google Sheet!). 
