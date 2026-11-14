@@ -22,7 +22,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # title of site appears in banner
 title: Joan Little Digital Exhibit
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Free Joan Little
+tagline: the case that captivated the nation
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Joan Little Digital Exhibit is about the Joan Little case the contents feature press materials, ephemera, photographs, etc. while Little was on trial for murder. The case relates to prisons, Black Women's rights, and sexual violence."
@@ -37,7 +37,7 @@ author: kemisa jara kassa
 # e.g. relative path "/assets/demo-metadata.csv"
 # e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vSn7AA-cbsXT3_nNUGftc1ab-CKXOJHMQCIENeR9NHElbyI9_qA99o0-HNZdG04v-M2_N21bUe_krQQ/pub?output=csv"
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/main/psychiana_cbdemo_gh.csv"
-metadata-csv: 
+metadata-csv: CSV_CollectionBuilder_JoanLittle-metadata (version 1)
 
 ##########
 # Site/Organization Branding 
