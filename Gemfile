@@ -12,6 +12,6 @@ gem "github-pages"
 # gem 'logger'
 # gem 'base64'
 # gem 'ostruct'
-gem 'nokogirl'
+gem 'nokogiri'
 gem 'httparty', '~> 0.21'
 gem 'puma', '>= 5.0'
