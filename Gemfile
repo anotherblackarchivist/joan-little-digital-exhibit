@@ -7,11 +7,11 @@ gem "github-pages"
 # If you end up with issues running github-pages on your local machine, 
 # delete gem github-pages and uncomment the gems below
 
-# gem 'jekyll'
-# gem 'webrick'
-# gem 'logger'
-# gem 'base64'
-# gem 'ostruct'
+gem 'jekyll'
+gem 'webrick'
+gem 'logger'
+gem 'base64'
+gem 'ostruct'
 gem 'nokogiri'
 gem 'httparty', '~> 0.21'
 gem 'puma', '>= 5.0'
